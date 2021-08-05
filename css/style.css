@@ -1,0 +1,32 @@
+/*com*/
+
+body{
+	margin: 0;
+	padding: 0;
+	font-family: Ptsans-Regular;
+	font-size: 16px;
+	font-weight: 400;
+}
+.container{
+	padding: 0 115px;
+}
+
+.menu_1 ul li {
+}
+	
+.menu_1 ul li a{
+	font-family: sans-serif;
+    font-size: 12px;
+    font-weight: 400 !important;
+    color: #747474 !important;
+}
+
+.menu_1 ul li a:hover{
+	color: #AB1730 !important;
+}
+.cap_1{
+	text-align: left;
+	margin-right: 550px;
+	padding-right: 218px;
+	line-height: 20px;
+}
